@@ -14,7 +14,8 @@
  * gitignore 에 포함 시켜야 할 것들은?
  * 4.3부터 지원되는 NotificationListenerService?
  * [SafetyNet](https://developer.android.com/google/play/safetynet/start.html)
- * ToolBar
+ * [ToolBar](https://developer.android.com/reference/android/widget/Toolbar.html)
+ * [SwipeRefreshLayout](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html)
 * 다음 주제
  * [fossdroid](http://fossdroid.com/)에서 각자 앱 하나씩 맡아서 소스 소개하기? 전체 소스가 아닌, 특정 영역? 기능의 소스만 일부.
  
