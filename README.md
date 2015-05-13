@@ -2,7 +2,7 @@
 * SK Planet 사내 스터디 모임입니다.
  
 ## Meeting
-* 2015. 03. 27 11시 40분 903BL
+* (2015. 03. 27 11시 40분 903BL)[https://github.com/neilpark/2015_Plalab_AndroidStudioWithL/blob/master/20150327.md]
 * 2015. 04. 10 11시 40분 903BL
 * 2015. 04. 23 11시 40분 903BL
 * 2015. 05. 08 11시 40분 904
