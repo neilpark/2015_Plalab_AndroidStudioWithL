@@ -16,6 +16,7 @@
 
 ### 동영상
 * [Android Performance Patterns](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE) in Youtube
+* [Fragment Pod Cast](http://fragmentedpodcast.com/)
 
 ### 2014 Deview
 * [2014 Deview] (http://deview.kr/2014/schedule) 발표 자료 모음.
