@@ -7,10 +7,9 @@
 * [2015. 04. 23 11시 40분 903BL](https://github.com/neilpark/2015_Plalab_AndroidStudioWithL/blob/master/20150423.md)
 * [2015. 05. 08 11시 40분 904](https://github.com/neilpark/2015_Plalab_AndroidStudioWithL/blob/master/20150508.md)
 * [2015. 05. 27 11시 40분 803BL](https://github.com/neilpark/2015_Plalab_AndroidStudioWithL/blob/master/20150527.md)
+* [2015. 06. 05(금) 11시 40분 803BL](https://github.com/neilpark/2015_Plalab_AndroidStudioWithL/blob/master/20150605.md)
 
 ## 예정
-* 2015. 06. 05(금) 11시 40분 803BL : 홍창우, 김필우
-* 2015. 06. 12(금) 11시 40분 903BL : 곽세환 (일정 상 미정)
 * 무슨 이야기를 할까요?
  * gitignore 에 포함 시켜야 할 것들은?
  * 4.3부터 지원되는 NotificationListenerService?
